@@ -1,0 +1,16 @@
+.root {
+  border: 1px solid #e4e5ea;
+  border-radius: 16px;
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: auto;
+}
+.btn_load_more {
+  margin: 10px 0px;
+}

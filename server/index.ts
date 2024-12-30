@@ -256,6 +256,8 @@ const asyncReplyMessage = () => {
         sender: MessageSender.Customer,
       };
 
+      messages.push(messageAdded);
+
       pubsub.publish(MESSAGE_ADDED, { messageAdded });
     }
 

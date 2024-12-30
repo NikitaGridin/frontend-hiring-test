@@ -1,6 +1,8 @@
 {
   "name": "frontend-hiring-test",
-  "author": { "name": "Enenlingre" },
+  "author": {
+    "name": "Enenlingre"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
